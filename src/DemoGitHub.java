@@ -20,6 +20,9 @@ public class DemoGitHub {
         // TODO code application logic here
         System.out.println("hello World");
         System.out.println(MyCalc.add(1, 2));
+        System.out.println(MyCalc.multi(1, 2));
+        System.out.println(MyCalc.div(1, 2));
+        System.out.println(MyCalc.minus(1, 2));
     }
 
 }
