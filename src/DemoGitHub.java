@@ -23,6 +23,7 @@ public class DemoGitHub {
         System.out.println(MyCalc.multi(1, 2));
         System.out.println(MyCalc.div(1, 2));
         System.out.println(MyCalc.minus(1, 2));
+        System.out.println("finish test");
     }
 
 }
